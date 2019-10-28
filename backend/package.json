@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Teamwork backend using NodeJs,Express and Postgres Database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/chriswatia/Teamwork.git"
+  },
+  "author": "chriswatia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-react": "^7.16.0"
+  }
+}
