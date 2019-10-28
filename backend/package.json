@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Teamwork backend using NodeJs,Express and Postgres Database.",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {"test": "jasmine"},
   "repository": {
     "type": "git",
     "url": "\u0016https://github.com/chriswatia/Teamwork.git"
@@ -19,6 +17,7 @@
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^1.16.0",
-    "eslint-plugin-react": "^7.16.0"
+    "eslint-plugin-react": "^7.16.0",
+    "jasmine": "^3.5.0"
   }
 }
